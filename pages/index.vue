@@ -45,8 +45,8 @@ img {
 
 #snow {
   background: none;
-  background-image: url("tangerine-border.png"), url("tangerine-med-border.png"),
-    url("tangerine-sm-border.png");
+  background-image: url("tangerine-border.png"), url("tangerine-grid-md.png"),
+    url("tangerine-grid-sm.png");
   height: 100%;
   left: 0;
   position: absolute;
