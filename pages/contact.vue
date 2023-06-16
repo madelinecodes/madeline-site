@@ -6,11 +6,9 @@
     />
   </Head>
   <div class="nav">
-    <nuxt-link class="title" to="/">
-      <h1>
-        Mads (Madeline) Healey
-      </h1>
-    </nuxt-link>
+    <h1>
+      Mads (Madeline) Healey
+    </h1>
     <div class="links">
       <nuxt-link to="/about">About</nuxt-link>
       <a href="https://github.com/madelinecodes">Github</a>
@@ -37,7 +35,7 @@
   width: 100%;
 }
 
-.links a, .title {
+.links a {
   text-decoration: none;
   color: white;
   font-size: 20px;
@@ -45,9 +43,9 @@
 
 @media only screen and (min-width: 600px) {
   .links {
-    display: flex;
-    justify-content: space-between;
-    width: 25%;
-  }
+  display: flex;
+  justify-content: space-between;
+  width: 25%;
+}
 }
 </style>
