@@ -1,51 +1,24 @@
 <template>
-  <Head>
-    <link
-      href="https://fonts.googleapis.com/css2?family=Righteous&display=swap"
-      rel="stylesheet"
-    />
-  </Head>
-  <div class="nav">
-    <h1>
-      Mads (Madeline) Healey
-    </h1>
-    <div class="links">
-      <nuxt-link to="/about">About</nuxt-link>
-      <a href="https://github.com/madelinecodes">Github</a>
-      <nuxt-link to="/current">Current</nuxt-link>
-      <nuxt-link to="/contact">Contact</nuxt-link>
-    </div>
-  </div>
+  <Page>
+    <h1>Contact Mads</h1>
+    <p>
+      This definitely didn't need its own page but the Nav bar looks so much
+      better with four links.
+    </p>
+    <p>
+      Email: MadelineMHealey@gmail.com
+    </p>
+  </Page>
 </template>
 
-<style scoped>
-.nav {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  margin: 0 10px;
-  font-family: "Righteous";
-  flex-wrap: wrap;
-  color: white;
-}
+<style scoped></style>
 
-.links {
-  display: flex;
-  justify-content: space-between;
-  width: 100%;
-}
+<script>
+import Page from "@/components/Nav.vue";
 
-.links a {
-  text-decoration: none;
-  color: white;
-  font-size: 20px;
-}
-
-@media only screen and (min-width: 600px) {
-  .links {
-  display: flex;
-  justify-content: space-between;
-  width: 25%;
-}
-}
-</style>
+export default {
+  components: {
+    Page
+  }
+};
+</script>

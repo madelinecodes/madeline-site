@@ -3,7 +3,7 @@
     <h1>More about Mads</h1>
     <p>
       I was born in Brooklyn, New York and raised mostly in Dallas, Texas. I
-      came to the UK when I was 17 and I've lived here ever since. I've got a
+      moved to the UK when I was 17 and I've lived here ever since. I've got a
       chill husband and two very cool kids named Jack and Ben!
     </p>
     <p>

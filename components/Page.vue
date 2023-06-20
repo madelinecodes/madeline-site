@@ -1,5 +1,6 @@
 <template>
   <Head>
+    <link rel="icon" type="image/png" sizes="32x32" href="tangerine_full.png" />
     <link
       href="https://fonts.googleapis.com/css2?family=Righteous&display=swap"
       rel="stylesheet"
