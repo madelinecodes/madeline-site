@@ -27,7 +27,7 @@
   box-shadow: 10px 5px 5px #a1e636b5;
   text-align: center;
   font-family: "Righteous";
-  color: white;
+  color: #f5ece5;
 }
 
 #snow {

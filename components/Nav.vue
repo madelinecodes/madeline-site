@@ -39,7 +39,7 @@
 
 .links a, .title {
   text-decoration: none;
-  color: white;
+  color: #f5ece5;
   font-size: 20px;
 }
 
