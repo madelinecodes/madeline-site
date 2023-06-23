@@ -1,7 +1,7 @@
 <template>
   <Page>
     <h1>Welcome to my site.</h1>
-    <img src="/face.png" alt="rough cutout of a floating face" />
+    <img src="~/assets/img/face.png" alt="rough cutout of a floating face" />
     <p>
       This is just a little landing page, nothing too interesting. I'm a
       fullstack developer based in Brighton. I studied English and Creative
