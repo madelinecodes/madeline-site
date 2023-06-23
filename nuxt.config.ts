@@ -1,5 +1,11 @@
+const path = require('path');
+
 export default {
-  target: 'static',
+  nitro: {
+    output: {
+      publicDir: path.join(__dirname, 'output')
+    }
+  },
   css: [
     'assets/css/app.css',
   ],
