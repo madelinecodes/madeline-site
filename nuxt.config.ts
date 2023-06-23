@@ -1,7 +1,5 @@
 export default {
-  nitro: {
-    preset: 'vercel-edge',
-  },
+  target: 'static',
   css: [
     'assets/css/app.css',
   ],
