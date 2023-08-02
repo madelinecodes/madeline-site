@@ -8,7 +8,7 @@
     </p>
     <p>
       I first got into programming by doing the CS50 courses and then was in the
-      privalaged position to be able to spend the next year of my life
+      privileged position to be able to spend the next year of my life
       dedicating my full attention to teaching myself how to code. My first love
       is Javascript but I've been writing Python for the last few years and it's
       stolen my heart. I'm fullstack but have the most fun in the frontend!
