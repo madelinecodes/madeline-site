@@ -32,6 +32,6 @@
 <script>
 import Nav from "@/components/Nav.vue";
 import css from "assets/css/app.css";
-import Default from "@/layouts/default.vue";
+import Default from "@/layouts/Default.vue";
 
 </script>
