@@ -4,6 +4,7 @@
       href="https://fonts.googleapis.com/css2?family=Righteous&display=swap"
       rel="stylesheet"
     />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
   </Head>
   <div class="nav">
     <nuxt-link class="title" to="/">
@@ -35,9 +36,11 @@
   display: flex;
   justify-content: space-between;
   width: 100%;
+  gap: 10px;
 }
 
-.links a, .title {
+.links a,
+.title {
   text-decoration: none;
   color: #f5ece5;
   font-size: 20px;
@@ -47,7 +50,8 @@
   .links {
     display: flex;
     justify-content: space-between;
-    width: 25%;
+    min-width: 294px;
+    max-width: 25%;
   }
 }
 </style>

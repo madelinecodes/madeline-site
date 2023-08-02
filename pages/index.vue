@@ -13,12 +13,12 @@
 
 <style scoped>
 img {
-  width: 36%;
+  width: 25vw;
 }
 
 @media only screen and (min-width: 600px) {
   img {
-    width: 25%;
+    width: 15vw;
   }
 }
 </style>

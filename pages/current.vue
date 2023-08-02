@@ -14,7 +14,7 @@
       </div>
       <div class="item">
         <p>I built this page for sharing
-        <a href="https://healey.family/"> pictures of our kids</a>.</p>
+        <a href="https://healey.family/"> pictures of our kids</a> because I believe in privacy. So I'm just putting them here, on this very public page. Yikes.</p>
       </div>
     </div>
   </Page>

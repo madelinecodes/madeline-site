@@ -5,6 +5,7 @@
       href="https://fonts.googleapis.com/css2?family=Righteous&display=swap"
       rel="stylesheet"
     />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
   </Head>
   <div class="container" id="snow">
     <Nav></Nav>
@@ -34,11 +35,11 @@
   background: none;
   background-image: url("~/assets/img/tangerine-border.png"), url("~/assets/img/tangerine-grid-md.png"),
     url("~/assets/img/tangerine-grid-sm.png");
-  height: 100%;
+  height: 100vh;
   left: 0;
   position: absolute;
   top: 0;
-  width: 100%;
+  width: 100vw;
   z-index: 1;
   animation: snow 1000s linear infinite;
   transform: translate(0, 0);
